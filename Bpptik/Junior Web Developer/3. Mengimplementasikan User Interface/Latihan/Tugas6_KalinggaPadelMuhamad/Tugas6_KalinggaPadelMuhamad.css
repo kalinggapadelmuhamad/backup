@@ -1,0 +1,41 @@
+.navbar {
+	background: orange !important;
+	height: 81px;
+}
+
+.navbar-brand {
+	color: white !important;
+	font-weight: bold;
+	font-size: 41px;
+	text-transform: uppercase;
+}
+
+#mainForm {
+	width: 237px;
+	border: 1px solid #313131;
+	box-sizing: border-box;
+	margin: auto;
+}
+
+.hitung {
+	background-color: orange !important;
+	border: none;
+	width: 100%;
+}
+
+.hasil {
+	margin: auto;
+	width: 238px;
+	background: red;
+	text-align: center;
+	color: white;
+	background: #666;
+	border-radius: 0% !important;
+}
+
+footer {
+	background: #666;
+	line-height: auto;
+	height: 25px;
+	line-height: 25px;
+}

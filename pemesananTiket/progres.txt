@@ -1,0 +1,16 @@
+dashboard
+card penjualan -pendapatan hari ini/ bulan-penjualan hari ini  - stok barang habis
+
+grafik penjualan
+grafik keuangan
+
+Transaksi
+
++ transaksi
+riwayat penjualan
+
+data & laporan
+data user
+data kategori
+data barang
+data penjualan

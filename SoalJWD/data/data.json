@@ -1,0 +1,112 @@
+[
+    {
+        "nama": "Ade",
+        "nomorInduk": "123",
+        "jenisKelamin": "P",
+        "domisili": "Jakarta",
+        "nilai": [
+            "9",
+            "7",
+            "8"
+        ]
+    },
+    {
+        "nama": "Bagus",
+        "nomorInduk": "456",
+        "jenisKelamin": "L",
+        "domisili": "Depok",
+        "nilai": [
+            "7",
+            "8",
+            "8"
+        ]
+    },
+    {
+        "nama": "Candra",
+        "nomorInduk": "789",
+        "jenisKelamin": "L",
+        "domisili": "Bekasi",
+        "nilai": [
+            "6",
+            "9",
+            "8"
+        ]
+    },
+    {
+        "nama": "kalingga",
+        "nomorInduk": "10755",
+        "jenisKelamin": "Laki-laki",
+        "domisili": "Bogor",
+        "nilai": [
+            "20",
+            "20",
+            "20"
+        ]
+    },
+    {
+        "nama": "Padel",
+        "nomorInduk": "1076",
+        "jenisKelamin": "Perempuan",
+        "domisili": "Depok",
+        "nilai": [
+            "75",
+            "75",
+            "75"
+        ]
+    },
+    {
+        "nama": "Muhamad",
+        "nomorInduk": "1078",
+        "jenisKelamin": "Perempuan",
+        "domisili": "Jakarta",
+        "nilai": [
+            "80",
+            "90",
+            "79"
+        ]
+    },
+    {
+        "nama": "kalingga padel muhamad",
+        "nomorInduk": "10758",
+        "jenisKelamin": "Laki-laki",
+        "domisili": "Jakarta",
+        "nilai": [
+            "90",
+            "90",
+            "90"
+        ]
+    },
+    {
+        "nama": "Kalingga Padel Muhamad",
+        "nomorInduk": "1088",
+        "jenisKelamin": "Laki-laki",
+        "domisili": "Jakarta",
+        "nilai": [
+            "89",
+            "89",
+            "89"
+        ]
+    },
+    {
+        "nama": "Ahmad",
+        "nomorInduk": "10788",
+        "jenisKelamin": null,
+        "domisili": "Depok",
+        "nilai": [
+            "80",
+            "80",
+            "80"
+        ]
+    },
+    {
+        "nama": "Ahmad",
+        "nomorInduk": "10788",
+        "jenisKelamin": "L",
+        "domisili": "Depok",
+        "nilai": [
+            "80",
+            "80",
+            "80"
+        ]
+    }
+]

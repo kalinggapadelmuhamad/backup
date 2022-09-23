@@ -1,0 +1,35 @@
+[
+    {
+        "nama": "Ade",
+        "nomorInduk": "123",
+        "jenisKelamin": "P",
+        "domisili": "Jakarta",
+        "nilai": [
+            "9",
+            "7",
+            "8"
+        ]
+    },
+    {
+        "nama": "Bagus",
+        "nomorInduk": "456",
+        "jenisKelamin": "L",
+        "domisili": "Depok",
+        "nilai": [
+            "7",
+            "8",
+            "8"
+        ]
+    },
+    {
+        "nama": "Candra",
+        "nomorInduk": "789",
+        "jenisKelamin": "L",
+        "domisili": "Bekasi",
+        "nilai": [
+            "6",
+            "9",
+            "8"
+        ]
+    }
+]

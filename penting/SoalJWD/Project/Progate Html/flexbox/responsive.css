@@ -1,0 +1,36 @@
+/* Layout untuk Tablet */
+/* Tetapkan media queries dengan breakpoint sebagai 1000px dan lebih kecil */
+@media (max-width: 1000px) {
+  /* Tetapkan flex-wrap milik .flex-list */
+  .flex-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  
+  /* Tetapkan nilai width dari .flex-list li ke 50% */
+  .flex-list li {
+    flex: auto;
+    width: 50%;
+  }
+  
+  
+}
+
+@media (max-width: 670px){
+  .flex-list {
+    display: flex;
+  }
+
+  .flex-list li {
+    flex: auto;
+  }
+
+  /*.flex-list {
+    flex-direction: column;
+  }
+
+  .flex-list li {
+    margin: 0px auto;
+  }*/
+}

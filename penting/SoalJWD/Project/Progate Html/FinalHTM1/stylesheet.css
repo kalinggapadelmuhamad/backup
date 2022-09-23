@@ -1,0 +1,110 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+.navbar {
+	background: #26d0c9;
+	height: 50px;
+	color: white;
+	padding: 0px 40px;
+}
+
+.navbar-logo {
+	font-size: 36px;
+	float: left;
+	padding: 2px 20px;
+}
+
+.navbar-list ul {
+	float: right;
+}
+
+.navbar-list li {
+	float: left;
+	list-style: none;
+	padding: 16px 10px
+}
+
+.main {
+  padding: 100px 80px;
+}
+
+.jumbotron span {
+	color: red;
+}
+
+.jumbotron h1 {
+	font-size: 140px;
+}
+
+.jumbotron h2 {
+	font-size: 60px;
+}
+
+.content {
+	height: 500px;
+	margin-top: 100px;
+}
+
+.content-title {
+	border-bottom: 2px solid #dee7ec;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	font-size: 28px;
+}
+
+.contents-item {
+	float: left;
+	margin-right: 30px;
+}
+
+.contents-item p {
+	font-size: 16px;
+	margin-top: 10px
+}
+
+.contact-form {
+	padding-top: 100px;
+}
+
+.contact-form p {
+  font-size: 12px;
+}
+
+input,textarea {
+	width: 400px;
+	margin: 10px 0px 30px 0px;
+	padding: 20px;
+	font-size: 18px;
+	border:1px solid #dee7ec;
+}
+
+.contact-submit {
+  background-color : #dee7ec;
+  color: #889eab;
+}
+
+.footer {
+	background: #2f5167;
+	height: 120px;
+	padding: 40px;
+	color: white;
+}
+
+.footer-logo {
+	float: left;
+	font-size: 35px;
+}
+
+.footer ul {
+   float: right;
+}
+
+.footer li {
+	list-style: none;
+	margin-top: 10px;
+}
+
+
+
